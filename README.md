@@ -119,12 +119,26 @@
 
 ---
 
-## ⚡ Vulnerability Research
+## Vulnerability Research & Exploits
 
-| CVE | Product | Type | CVSS | Exploit |
-|:----|:--------|:-----|:----:|:--------|
-| [CVE-2025-57819](https://github.com/Jeanback1/CVE-2025-57819-exploit) | FreePBX (endpoint module) | Pre-Auth SQLi → RCE | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2025-57819-exploit) |
+| CVE | Product | Type | CVSS | Repo |
+|:----|:--------|:-----|:----:|:-----|
 | [CVE-2025-55182](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) | React Server Components | Prototype Pollution RCE | **10.0** | [Lab](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) |
+| [CVE-2025-57819](https://github.com/Jeanback1/CVE-2025-57819-exploit) | FreePBX (endpoint module) | Pre-Auth SQLi → RCE | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2025-57819-exploit) |
+| [CVE-2022-25765](https://github.com/Jeanback1/CVE-2022-25765-exploit) | pdfkit (Ruby gem) | Command Injection | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2022-25765-exploit) |
+| [CVE-2019-9053](https://github.com/Jeanback1/CVE-2019-9053-exploit) | CMS Made Simple ≤ 2.2.9 | Unauthenticated SQLi | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2019-9053-exploit) |
+| [CVE-2025-2304](https://github.com/Jeanback1/CVE-2025-2304-exploit) | Camaleon CMS < 2.9.1 | Mass Assignment PrivEsc | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2025-2304-exploit) |
+| [CVE-2023-30253](https://github.com/Jeanback1/CVE-2023-30253-exploit) | Dolibarr ERP/CRM 17.0.0 | PHP Code Injection RCE | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2023-30253-exploit) |
+| [CVE-2021-3560](https://github.com/Jeanback1/CVE-2021-3560-exploit) | Polkit (accounts-daemon) | Privilege Escalation | **7.8** | [Exploit](https://github.com/Jeanback1/CVE-2021-3560-exploit) |
+| [CVE-2023-27163](https://github.com/Jeanback1/CVE-2023-27163-exploit) | request-baskets ≤ 1.2.1 | SSRF | **7.5** | [Exploit](https://github.com/Jeanback1/CVE-2023-27163-exploit) |
+| [CVE-2019-0211](https://github.com/Jeanback1/CVE-2019-0211-exploit) | Apache HTTP Server 2.4.17–2.4.38 | Local PrivEsc (CARPE DIEM) | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2019-0211-exploit) |
+
+### Other Exploits
+
+| Repo | Product | Type |
+|:----|:--------|:-----|
+| [Maltrail v0.53](https://github.com/Jeanback1/Maltrail-v0.53-Exploit) | Maltrail v0.53 | Command Injection |
+| [HTB TwoMillion](https://github.com/Jeanback1/HTB-TwoMillion-Exploit) | HackTheBox TwoMillion | Command Injection via VPN endpoint |
 
 > *Finding zero-days, weaponizing exploits, and sharing knowledge.*
 
