@@ -105,6 +105,28 @@
   <img src="https://img.shields.io/badge/Machines%20Owned-91-ff8888?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
+<br/>
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231538.png" width="320" alt="HTB Profile" /> | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-225553.png" width="400" alt="HTB Academy" /> |
+| **Profile**<br/>`Hacker` · `VIP 🜲` · `Team #DO` | **Academy Progress**<br/>`Level 47` · `Professional` · `690/1200 XP` |
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" width="720" alt="HTB Season 11" />
+</p>
+
+<p align="center">
+  <b>Season 11 — Competitive</b><br/>
+  <code>Silver Tier</code> · <code>Rank #1204</code> · <code>305 pts</code> · <code>10/26 Flags</code> · <code>85.71% → Gold</code>
+</p>
+
 ### Active Directory Machines
 
 | Machine | User Own | Root Own | Writeup |
