@@ -1,65 +1,45 @@
-```
-▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
-  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-  ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀ 
-  ▐░▌          ▐░▌          ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌▐░▌          
-  ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄ 
-  ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌▐░░░░░░░░░░░▌
-  ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌ ▀▀▀▀▀▀▀▀▀█░▌
-  ▐░▌          ▐░▌          ▐░▌       ▐░▌▐░▌          ▐░▌       ▐░▌          ▐░▌
-  ▐░▌          ▐░▌          ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌ ▄▄▄▄▄▄▄▄▄█░▌
-  ▐░▌          ▐░▌          ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-   ▀            ▀            ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
-                                                                                    
-```
+# Jean Carlos Mercedes Morel
 
 <p align="center">
-  <a href="https://github.com/Jeanback1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Pentester+%26+Security+Researcher;CVE+Hunter+%7C+Offensive+Security;Breaking+stuff+so+you+can+fix+it;Root+%3E+User+%3E+Guest" alt="Typing SVG" />
+  <b>Pentester · Security Researcher · CVE Hunter</b><br>
+  <i>Hunting CVEs and breaking webapps</i>
+</p>
+
+---
+
+## 🏆 Hack The Box
+
+<p align="center">
+  <a href="https://app.hackthebox.com/profile/2892433">
+    <img src="https://www.hackthebox.com/badge/image/2892433" alt="Hack The Box" />
   </a>
 </p>
 
 ---
 
-```
-┌──(jeanback1㉿kali)-[~/github]
-└─$ whoami
-```
+## ⚡ Vulnerability Research
 
-```yaml
-name: "Jean Carlos Mercedes Morel"
-alias: "Jeanback1"
-role: "Pentester | Security Researcher | CVE Hunter"
-focus:
-  - Web Application Security
-  - Network Penetration Testing
-  - Exploit Development
-  - Red Teaming
-  - Vulnerability Research
-currently: "Hunting CVEs and breaking webapps"
-coordinates:
-  lat: 18.4861
-  lon: -69.9312
-platform: "Hack The Box · TryHackMe · Bug Bounty"
-```
+| CVE | Product | Type | CVSS | Exploit |
+|:----|:--------|:-----|:----:|:--------|
+| [CVE-2025-57819](https://github.com/Jeanback1/CVE-2025-57819-exploit) | FreePBX (endpoint module) | Pre-Auth SQLi → RCE | **9.8** | [Exploit](https://github.com/Jeanback1/CVE-2025-57819-exploit) |
+| [CVE-2025-55182](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) | React Server Components | Prototype Pollution RCE | **10.0** | [Lab](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) |
 
-```
-┌──(jeanback1㉿kali)-[~/github]
-└─$ cat .resume
-```
+> *Finding zero-days, weaponizing exploits, and sharing knowledge.*  
 
 ---
 
-### 🛡️ Arsenal
+## 🛠️ Arsenal
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Tools & Frameworks**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Caido](https://img.shields.io/badge/Caido-A1223F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjMyLjQ1IDIxOC43MyI%2BPGRlZnM%2BPHN0eWxlPi5jbHMtMXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50KTt9LmNscy0ye2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMik7fS5jbHMtM3tmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTMpO30uY2xzLTR7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC00KTt9LmNscy01e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtNSk7fS5jbHMtNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTYpO30uY2xzLTd7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC03KTt9LmNscy04e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtOCk7fS5jbHMtOXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTkpO30uY2xzLTEwe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTApO30uY2xzLTExe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTEpO308L3N0eWxlPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iNDYiIHkxPSIyMjAuODEiIHgyPSIyNzEuNjEiIHkyPSI3MS40NiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4yIiBzdG9wLWNvbG9yPSIjYTUzZDNjIi8%2BPHN0b3Agb2Zmc2V0PSIwLjgiIHN0b3AtY29sb3I9IiNkYmE4NWYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIiIHgxPSIyMS41MiIgeTE9IjE4My44MiIgeDI9IjI0Ny4xMyIgeTI9IjM0LjQ3IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMyIgeDE9IjIuNzQiIHkxPSIxNTUuNDYiIHgyPSIyMjguMzUiIHkyPSI2LjExIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNCIgeDE9IjUuNiIgeTE9IjE1OS43OCIgeDI9IjIzMS4yMSIgeTI9IjEwLjQzIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNSIgeDE9IjU3LjYxIiB5MT0iMjM4LjM0IiB4Mj0iMjgzLjIyIiB5Mj0iODkiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC02IiB4MT0iMTAuNDgiIHkxPSIxNjcuMTQiIHgyPSIyMzYuMDkiIHkyPSIxNy44IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNyIgeDE9Ii0xMCIgeTE9IjEzNi4yMSIgeDI9IjIxNS42MSIgeTI9Ii0xMy4xNCIgeGxpbms6aHJlZj0iI2xpbmVhci1ncmFkaWVudCIvPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTgiIHgxPSIxNC4zMyIgeTE9IjE3Mi45NyIgeDI9IjIzOS45NCIgeTI9IjIzLjYyIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtOSIgeDE9IjI5LjIxIiB5MT0iMTk1LjQ0IiB4Mj0iMjU0LjgxIiB5Mj0iNDYuMDkiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0xMCIgeDE9IjU4LjYxIiB5MT0iMjM5Ljg2IiB4Mj0iMjg0LjIyIiB5Mj0iOTAuNTEiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC0xMSIgeDE9IjMwLjc1IiB5MT0iMTk3Ljc2IiB4Mj0iMjU2LjM2IiB5Mj0iNDguNDIiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQiLz48L2RlZnM%2BPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMTE0LjcsMjE4LjExYTUuMDcsNS4wNywwLDEsMSwwLTEwLjEzLDk4Ljg3LDk4Ljg3LDAsMCwwLDgzLjQzLTQ1LjI0bC0xMy44Mi0yOC4xNi42Ny0yQTc2LjE0LDc2LjE0LDAsMCwwLDE4MCw3Mi44Myw1LjA3LDUuMDcsMCwwLDEsMTg5LDY4LjA2YTg2LjIzLDg2LjIzLDAsMCwxLDYuMjUsNjUuNzdsMTQuNDgsMjkuNS0xLjQ2LDIuMzdBMTA5LDEwOSwwLDAsMSwxMTQuNywyMTguMTFaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTE0Ni4yMywxNTguNTVhNS4wNiw1LjA2LDAsMCwxLTIuOC05LjI4QTQ5LDQ5LDAsMCwwLDEzMi4xMiw2Mi4xYTUuMDcsNS4wNywwLDEsMSwzLjI2LTkuNkE1OS4xLDU5LjEsMCwwLDEsMTQ5LDE1Ny43MSw1LjA2LDUuMDYsMCwwLDEsMTQ2LjIzLDE1OC41NVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDApIi8%2BPHBhdGggY2xhc3M9ImNscy0zIiBkPSJNMTA0LjM5LDE3Mi43OSw4OC44NiwxOTEuMTNsLTMuNjYtMS4yNWE4OC4yMSw4OC4yMSwwLDAsMS0xNy40LTguMTEsODYsODYsMCwwLDEtMjgtMTIwLjE0QTg4LjY1LDg4LjY1LDAsMCwxLDY1Ljc2LDM1bDE3LTI5Ljc4TDg1LDQuNTdhMTA5LjE4LDEwOS4xOCwwLDAsMSw4MSw3LjM2LDMuOSwzLjksMCwwLDEsLjM1LjE5LDUuNDQsNS40NCwwLDAsMSwyLDcuMjUsNS43LDUuNywwLDAsMS03LjU5LDIuMzcsOTcuODUsOTcuODUsMCwwLDAtNzAuNDMtNy4yMUw3NC4xNiw0Mi42OSw3Myw0My40NGE3Ny42OCw3Ny42OCwwLDAsMC0yMy43LDIzLjk0LDc1LjI3LDc1LjI3LDAsMCwwLDI0LjQ3LDEwNSw3Ny44OSw3Ny44OSwwLDAsMCwxMS42MSw1Ljc2bDE0LjM4LTE3LDMuMDkuNDJjMy4wOC40MSwxMi43Ny45MiwyMC40OC0xLjY1YTUuNTEsNS41MSwwLDEsMSwzLjQ4LDEwLjQ1QzExOC4zNSwxNzMuMTgsMTA5LjEzLDE3My4xLDEwNC4zOSwxNzIuNzlaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSIvPjxwYXRoIGNsYXNzPSJjbHMtNCIgZD0iTTEwNiw0Ni4wNWE1LjQ1LDUuNDUsMCwwLDEtMS43OCwxMEE1My43NCw1My43NCwwLDAsMCw2OS41Myw4MCw1Mi4zNiw1Mi4zNiwwLDAsMCw4NywxNTIuOTJhNS40LDUuNCwwLDAsMSwxLjgsNy41Myw1LjY2LDUuNjYsMCwwLDEtNy42OSwxLjc5LDYzLjE4LDYzLjE4LDAsMCwxLTIxLTg4LDY0Ljg2LDY0Ljg2LDAsMCwxLDQxLjg0LTI4LjkxQTUuNjksNS42OSwwLDAsMSwxMDYsNDYuMDVaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSIvPjxwYXRoIGNsYXNzPSJjbHMtNSIgZD0iTTE3My4wNywxNjAuMjFhMTQuODMsMTQuODMsMCwwLDAtMjAuMTgsNC42OSwxMy45MSwxMy45MSwwLDAsMC0yLDkuODJjLTEzLjQ0LDctMjcsMTAtNDIuMTksOC42YTUuNTcsNS41NywwLDAsMC02LjExLDQuOTMsNS41LDUuNSwwLDAsMCw1LDZjMTcuNTUsMS42NCwzMy42NC0xLjkyLDQ5LjE0LTEwLjE4LjI5LjIxLjU3LjQxLjkuNjFBMTQuOSwxNC45LDAsMCwwLDE3Ny44MSwxODAsMTQuMjQsMTQuMjQsMCwwLDAsMTczLjA3LDE2MC4yMVptLTQuNzgsMTRhMy41MywzLjUzLDAsMCwxLTQuNzksMS4xMiwzLjM5LDMuMzksMCwwLDEtMS4xMi00LjcxLDMuNTMsMy41MywwLDAsMSw0Ljc4LTEuMTJBMy4zOCwzLjM4LDAsMCwxLDE2OC4yOSwxNzQuMjRaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSIvPjxwYXRoIGNsYXNzPSJjbHMtNiIgZD0iTTE1Mi45NCwyMDYuMzdhNS42NCw1LjY0LDAsMCwwLTctMy41M0ExMDQuNzMsMTA0LjczLDAsMCwxLDYwLDE5Mi43MUMxMS42NSwxNjMuNDQtMy4yNiwxMDEuMDYsMjYuNzIsNTMuNjJBMTAzLjkyLDEwMy45MiwwLDAsMSw0MiwzNC43OSwxNS4xMywxNS4xMywwLDAsMCw2MSwyOS4xOSwxNC40OSwxNC40OSwwLDAsMCw1Ni4xNSw5YTE1LjE5LDE1LjE5LDAsMCwwLTIwLjYsNC43NiwxNC4zOCwxNC4zOCwwLDAsMC0xLjE4LDEzLjA1QTExMi41NywxMTIuNTcsMCwwLDAsMTcuMiw0Ny44OSwxMDkuNSwxMDkuNSwwLDAsMCwzLjA2LDEzMi41MWExMTEsMTExLDAsMCwwLDUxLDY5LjUxLDExNi4yMywxMTYuMjMsMCwwLDAsOTUuMjYsMTEuMjZBNS41MSw1LjUxLDAsMCwwLDE1Mi45NCwyMDYuMzdaTTQ1LjA3LDE5LjU0YTMuNzksMy43OSwwLDAsMSw1LjE3LTEuMiwzLjY2LDMuNjYsMCwwLDEsMS4yMiw1LjA5LDMuODIsMy44MiwwLDAsMS01LjE5LDEuMjFBMy42NiwzLjY2LDAsMCwxLDQ1LjA3LDE5LjU0WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMCkiLz48cGF0aCBjbGFzcz0iY2xzLTciIGQ9Ik0xNzMsMzMuNDRhMTQuNTIsMTQuNTIsMCwwLDAtMTUuNzYuNTMsODcuMzksODcuMzksMCwwLDAtNjIuNzktOC41NCw1LjUxLDUuNTEsMCwwLDAtNC4xNCw2LjYzLDUuNTgsNS41OCwwLDAsMCw2Ljc1LDQsNzYuMDksNzYuMDksMCwwLDEsNTQuMzUsNy4yN0ExMy43NywxMy43NywwLDAsMCwxNTgsNTcuMThhMTQuNDUsMTQuNDUsMCwwLDAsMTkuNi00LjUzQTEzLjgsMTMuOCwwLDAsMCwxNzMsMzMuNDRabS00LjkxLDEzLjQ1YTMuMTEsMy4xMSwwLDAsMS00LjIyLDEsMi45NCwyLjk0LDAsMCwxLTEtNC4xMiwzLjA3LDMuMDcsMCwwLDEsNC4xOS0xQTMsMywwLDAsMSwxNjguMDYsNDYuODlaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSIvPjxwYXRoIGNsYXNzPSJjbHMtOCIgZD0iTTE0NC4xMSwxMjEuNzhhNS4xNCw1LjE0LDAsMCwxLC4yMyw1LjkyLDM3LjQ0LDM3LjQ0LDAsMCwxLTUuMTIsNi4zN2wtLjA3LjA3YTM2LjU3LDM2LjU3LDAsMCwxLTE1LjcxLDkuMjQsMzcuNjYsMzcuNjYsMCwwLDEtMTEuNjksMS40OEEzNy4xOSwzNy4xOSwwLDAsMSw4NywxMzQuMzJhMzYuNDcsMzYuNDcsMCwwLDEtOS43Mi0xNi4wNywzNy4yNCwzNy4yNCwwLDAsMSw2OC4wNi0yOUE1LjI4LDUuMjgsMCwwLDEsMTQwLjUzLDk3bC0uMzMsMGE1LjM2LDUuMzYsMCwwLDEtNC40Ni0yLjc0QTI2LjQyLDI2LjQyLDAsMCwwLDg4LjksOTYuNzksMjUsMjUsMCwwLDAsODYuNTksMTA2YTI2LjUsMjYuNSwwLDAsMCwxNS41MywyNS43NCwyNC41MiwyNC41MiwwLDAsMCw5LjE5LDIuMjcsMjYuNDYsMjYuNDYsMCwwLDAsMTguNDUtNiwyNi4xNywyNi4xNywwLDAsMCw0LjQtNC42MywxMy40NCwxMy40NCwwLDAsMCwuODctMS4yNiw1LjQyLDUuNDIsMCwwLDEsMi4yOC0yLDMuMzMsMy4zMywwLDAsMC0uMzksMS42MSwzLjYsMy42LDAsMSwwLDcuMTksMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDApIi8%2BPHBhdGggY2xhc3M9ImNscy05IiBkPSJNMTQwLjUsMTA5LjNBMTIuNDYsMTIuNDYsMCwwLDAsMTI4LDEyMS43NmExMi4xOSwxMi4xOSwwLDAsMCwxLjcyLDYuMjcsMTIuNTIsMTIuNTIsMCwwLDAsMTAuNzQsNi4xOSwxMi40NiwxMi40NiwwLDEsMCwwLTI0LjkyWm0tMy41OCwxMi40NmEzLjMzLDMuMzMsMCwwLDEsLjM5LTEuNjEsMy41MywzLjUzLDAsMCwxLDMuMTktMiwzLjU4LDMuNTgsMCwwLDEsMy42MSwzLjU4djBhMy42LDMuNiwwLDEsMS03LjE5LDBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwKSIvPjxwYXRoIGNsYXNzPSJjbHMtMTAiIGQ9Ik0yMTguMTksMTIwYTE0LjI2LDE0LjI2LDAsMSwwLDE0LjI2LDE0LjI2QTE0LjI2LDE0LjI2LDAsMCwwLDIxOC4xOSwxMjBabTAsMTcuNDZhMy4yLDMuMiwwLDEsMSwzLjItMy4yQTMuMiwzLjIsMCwwLDEsMjE4LjE5LDEzNy40MloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDApIi8%2BPHBhdGggY2xhc3M9ImNscy0xMSIgZD0iTTIxMy4yNywxMjIuMjFhMTUuNzQsMTUuNzQsMCwwLDEsMy42Ni0uNDUsMTUuNSwxNS41LDAsMCwxLDYuNDMsMS40LDEwOS42NiwxMDkuNjYsMCwwLDAtMjQuMDUtODQuNDUsNS4wNiw1LjA2LDAsMCwwLTcuODEsNi40NCw5OS43LDk5LjcsMCwwLDEsMjIuNzIsNjMuMzFBMTAxLjcsMTAxLjcsMCwwLDEsMjEzLjI3LDEyMi4yMVoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDApIi8%2BPC9zdmc%2B&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2B2B2B?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E94D4?style=for-the-badge&logo=nmap&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white)
@@ -68,72 +48,26 @@ platform: "Hack The Box · TryHackMe · Bug Bounty"
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-```
-┌──(jeanback1㉿kali)-[~/github]
-└─$ cat CVEs.txt
-```
-
 ---
 
-### ⚡ Vulnerability Research
-
-| CVE | Product | Type | CVSS |
-|:----|:--------|:-----|:----:|
-| [CVE-2025-57819](https://github.com/Jeanback1/CVE-2025-57819-exploit) | FreePBX (endpoint module) | Pre-Auth SQLi → RCE | **9.8** |
-| [CVE-2025-55182](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) | React Server Components | Prototype Pollution RCE | **10.0** |
-
-> *Finding zero-days, weaponizing exploits, and sharing knowledge.*
-
-```
-┌──(jeanback1㉿kali)-[~/github]
-└─$ ls -la projects/
-```
-
----
-
-### 🔬 Featured Projects
+## 📦 Featured Projects
 
 | Project | Description |
 |:--------|:------------|
-| [**CVE-2025-57819 Exploit**](https://github.com/Jeanback1/CVE-2025-57819-exploit) | FreePBX Pre-Auth SQLi → RCE — All-in-One exploit with MSF staging, admin creation & custom payload modes |
-| [**React RSC CVE Lab**](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) | Educational lab for CVE-2025-55182 — React Server Components RCE via Flight protocol deserialization |
-| [**Sistema de Facturación**](https://github.com/Jeanback1/Programa_Facturacion) | Full-stack desktop billing system — Python, CustomTkinter, SQLite |
-
-```
-┌──(jeanback1㉿kali)-[~/github]
-└─$ neofetch
-```
+| [CVE-2025-57819 Exploit](https://github.com/Jeanback1/CVE-2025-57819-exploit) | FreePBX Pre-Auth SQLi → RCE — All-in-One exploit with MSF staging, admin creation & custom payload modes |
+| [React RSC CVE Lab](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) | Educational lab for CVE-2025-55182 — React Server Components RCE via Flight protocol deserialization |
+| [Sistema de Facturación](https://github.com/Jeanback1/Programa_Facturacion) | Full-stack desktop billing system — Python, CustomTkinter, SQLite |
 
 ---
 
-### 📊 Stats
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeanback1&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=6&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanback1&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=6" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanback1&theme=vision-friendly-dark&hide_border=true&border_radius=6" width="70%" />
-</p>
-
-```
-┌──(jeanback1㉿kali)-[~/github]
-└─$ cat .contact
-```
-
----
-
-### 📡 Connect
-
-```
-Email:  jeancarlosmercedesmorel@gmail.com
-GPG:    [Pending — will add when GPG key is set up]
-```
+- **Email:** [jeancarlosmercedesmorel@gmail.com](mailto:jeancarlosmercedesmorel@gmail.com)
 
 <p align="center">
   <a href="mailto:jeancarlosmercedesmorel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Jeanback1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://app.hackthebox.com/profile/2892433"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>
 </p>
 
 <p align="center">
@@ -142,8 +76,4 @@ GPG:    [Pending — will add when GPG key is set up]
 
 ---
 
-```
-┌──(jeanback1㉿kali)-[~/github]
-└─$ echo "Happy Hacking"
-Happy Hacking 🏴‍☠️
-```
+<p align="center"><code>Happy Hacking 🏴‍☠️</code></p>
