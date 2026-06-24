@@ -109,23 +109,23 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231538.png" width="320" alt="HTB Profile" /> | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-225553.png" width="400" alt="HTB Academy" /> |
-| **Profile**<br/>`Hacker` · `VIP 🜲` · `Team #DO` | **Academy Progress**<br/>`Level 47` · `Professional` · `690/1200 XP` |
+| |
+|:---:|
+| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231538.png" width="400" alt="HTB Profile" /> |
+| **Profile**<br/>`Hacker` · `VIP 🜲` · `Team #DO` |
 
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" width="720" alt="HTB Season 11" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Season 11 — Competitive</b><br/>
-  <code>Silver Tier</code> · <code>Rank #1204</code> · <code>305 pts</code> · <code>10/26 Flags</code> · <code>85.71% → Gold</code>
-</p>
+| | |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-225553.png" width="380" alt="HTB Academy" /> | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" width="380" alt="HTB Season 11" /> |
+| **Academy Progress**<br/>`Level 47` · `Professional` · `690/1200 XP` | **Season 11 — Competitive**<br/>`Silver Tier` · `Rank #1204` · `305 pts` · `10/26 Flags` · `85.71% → Gold` |
+
+</div>
 
 ### Active Directory Machines
 
