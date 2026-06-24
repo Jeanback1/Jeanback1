@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://app.hackthebox.com/profile/2892433">
-    <img src="https://www.hackthebox.com/badge/image/2892433" alt="Hack The Box" />
+    <img src="https://img.shields.io/badge/Jeanback1-ff4444?style=for-the-badge&logo=hackthebox&logoColor=white&label=HTB%20Profile" alt="Hack The Box" />
   </a>
 </p>
 
