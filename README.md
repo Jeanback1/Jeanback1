@@ -1,9 +1,93 @@
-# Jean Carlos Mercedes Morel
+<div align="center">
 
-<p align="center">
-  <b>Pentester · Security Researcher · CVE Hunter</b><br>
-  <i>Hunting CVEs and breaking webapps</i>
-</p>
+<!-- HEADER BANNER — RED THEME -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0505,100:ff3333&height=200&section=header&text=JEANBACK1&fontSize=70&fontColor=ff3333&fontAlignY=38&desc=Pentester%20%E2%80%A2%20Security%20Researcher%20%E2%80%A2%20CVE%20Hunter&descAlignY=58&descSize=16&descColor=ff6666&animation=twinkling"/>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4444&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%5B+PENTESTER+%7C+SECURITY+RESEARCHER+%7C+CVE+HUNTER+%5D;%5B+EXPLOIT+DEVELOPMENT+%7C+RED+TEAM+%7C+BUG+BOUNTY+%5D;%5B+BREAKING+STUFF+SO+YOU+CAN+FIX+IT+%5D" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- BADGES -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Jeanback1&color=ff4444&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Jeanback1)
+[![GitHub followers](https://img.shields.io/github/followers/Jeanback1?color=ff4444&style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/Jeanback1?tab=followers)
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  [*] INITIALIZING SECURITY PROFILE...                                        ║
+║  [+] IDENTITY   : Jean Carlos // Jeanback1                                 ║
+║  [+] ROLE       : Pentester · Security Researcher · CVE Hunter              ║
+║  [+] LOCATION   : Dominican Republic // 18.4861° N, 69.9312° W             ║
+║  [+] PLATFORM   : HTB · TryHackMe · Bug Bounty                             ║
+║  [+] STATUS     : [ HUNTING ] — CVE Research Active                        ║
+║  [!] PHILOSOPHY : "Breaking stuff so you can fix it"                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## `> whoami`
+
+</div>
+
+**Jean Carlos Mercedes Morel** — aka **Jeanback1**. Pentester and Security Researcher with a fire for web application security, network penetration testing, and exploit development. I hunt CVEs and break webapps so you can fix them.
+
+**Focus Areas:**
+- **Web Application Security** — OWASP Top 10, API security, auth bypasses
+- **Exploit Development** — From PoC to weaponized exploits
+- **Vulnerability Research** — CVE hunting & responsible disclosure
+- **Red Teaming** — Simulating real-world adversaries
+
+---
+
+<div align="center">
+
+## `> cat /proc/expertise`
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Offensive Security
+
+```
+■ Web Application Pentesting
+■ Network Penetration Testing
+■ Exploit Development & PoC
+■ CVE Research & Zero-Day Analysis
+■ Authentication & Authorization Bypass
+■ Business Logic Flaws & IDOR
+■ Active Directory Attacks
+■ Chained Vulnerability Exploitation
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Tools & Arsenal
+
+```
+■ Burp Suite | Metasploit | Nmap
+■ BloodHound | Impacket | SQLMap
+■ Wireshark | Docker | Caido
+■ Python | Bash | PowerShell
+■ Custom Exploit Development
+■ Reverse Engineering Basics
+■ WAF Bypass Techniques
+■ Post-Exploitation & Pivoting
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -16,9 +100,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-926-blue?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Points-91-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machines%20Owned-91-yellow?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rank-926-ff4444?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Points-91-ff6666?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machines%20Owned-91-ff8888?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ### Active Directory Machines
@@ -57,7 +141,7 @@
 **Tools & Frameworks**
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Caido](https://img.shields.io/badge/Caido-A1223F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjMyLjQ1IDIxOC43MyI%2BPGRlZnM%2BPHN0eWxlPi5jbHMtMXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50KTt9LmNscy0ye2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMik7fS5jbHMtM3tmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTMpO30uY2xzLTR7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC00KTt9LmNscy01e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtNSk7fS5jbHMtNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTYpO30uY2xzLTd7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC03KTt9LmNscy04e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtOCk7fS5jbHMtOXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTkpO30uY2xzLTEwe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTApO30uY2xzLTExe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTEpO308L3N0eWxlPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iNDYiIHkxPSIyMjAuODEiIHgyPSIyNzEuNjEiIHkyPSI3MS40NiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4yIiBzdG9wLWNvbG9yPSIjYTUzZDNjIi8%2BPHN0b3Agb2Zmc2V0PSIwLjgiIHN0b3AtY29sb3I9IiNkYmE4NWYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIiIHgxPSIyMS41MiIgeTE9IjE4My44MiIgeDI9IjI0Ny4xMyIgeTI9IjM0LjQ3IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMyIgeDE9IjIuNzQiIHkxPSIxNTUuNDYiIHgyPSIyMjguMzUiIHkyPSI2LjExIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNCIgeDE9IjUuNiIgeTE9IjE1OS43OCIgeDI9IjIzMS4yMSIgeTI9IjEwLjQzIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNSIgeDE9IjU3LjYxIiB5MT0iMjM4LjM0IiB4Mj0iMjgzLjIyIiB5Mj0iODkiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC02IiB4MT0iMTAuNDgiIHkxPSIxNjcuMTQiIHgyPSIyMzYuMDkiIHkyPSIxNy44IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNyIgeDE9Ii0xMCIgeTE9IjEzNi...
+![Caido](https://img.shields.io/badge/Caido-A1223F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgMjMyLjQ1IDIxOC43MyI%2BPGRlZnM%2BPHN0eWxlPi5jbHMtMXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50KTt9LmNscy0ye2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMik7fS5jbHMtM3tmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTMpO30uY2xzLTR7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC00KTt9LmNscy01e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtNSk7fS5jbHMtNntmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTYpO30uY2xzLTd7ZmlsbDp1cmwoI2xpbmVhci1ncmFkaWVudC03KTt9LmNscy04e2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtOCk7fS5jbHMtOXtmaWxsOnVybCgjbGluZWFyLWdyYWRpZW50LTkpO30uY2xzLTEwe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTApO30uY2xzLTExe2ZpbGw6dXJsKCNsaW5lYXItZ3JhZGllbnQtMTEpO308L3N0eWxlPjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50IiB4MT0iNDYiIHkxPSIyMjAuODEiIHgyPSIyNzEuNjEiIHkyPSI3MS40NiIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIG9mZnNldD0iMC4yIiBzdG9wLWNvbG9yPSIjYTUzZDNjIi8%2BPHN0b3Agb2Zmc2V0PSIwLjgiIHN0b3AtY29sb3I9IiNkYmE4NWYiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0ibGluZWFyLWdyYWRpZW50LTIiIHgxPSIyMS41MiIgeTE9IjE4My44MiIgeDI9IjI0Ny4xMyIgeTI9IjM0LjQ3IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtMyIgeDE9IjIuNzQiIHkxPSIxNTUuNDYiIHgyPSIyMjguMzUiIHkyPSI2LjExIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNCIgeDE9IjUuNiIgeTE9IjE1OS43OCIgeDI9IjIzMS4yMSIgeTI9IjEwLjQzIiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNSIgeDE9IjU3LjYxIiB5MT0iMjM4LjM0IiB4Mj0iMjgzLjIyIiB5Mj0iODkiIHhsaW5rOmhyZWY9IiNsaW5lYXItZ3JhZGllbnQiLz48bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudC02IiB4MT0iMTAuNDgiIHkxPSIxNjcuMTQiIHgyPSIyMzYuMDkiIHkyPSIxNy44IiB4bGluazpocmVmPSIjbGluZWFyLWdyYWRpZW50Ii8%2BPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQtNyIgeDE9Ii0xMCIgeTE9IjEzNi4uLg..&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2B2B2B?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E94D4?style=for-the-badge&logo=nmap&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge&logo=sqlmap&logoColor=white)
@@ -89,7 +173,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeanback1&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=Jeanback1&label=PROFILE+VIEWS&style=for-the-badge&color=ff4444" />
 </p>
 
 ---
