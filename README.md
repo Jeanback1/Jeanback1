@@ -122,22 +122,10 @@
 
 | | |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-225553.png" width="380" alt="HTB Academy" /> | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" width="380" alt="HTB Season 11" /> |
+| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-225553.png" height="420" alt="HTB Academy" /> | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" height="420" alt="HTB Season 11" /> |
 | **Academy Progress**<br/>`Level 47` · `Professional` · `690/1200 XP` | **Season 11 — Competitive**<br/>`Silver Tier` · `Rank #1204` · `305 pts` · `10/26 Flags` · `85.71% → Gold` |
 
 </div>
-
-### Active Directory Machines
-
-| Machine | User Own | Root Own | Writeup |
-|:--------|:--------:|:--------:|:--------|
-| Checkpoint | ✅ | ✅ | <!-- PENDIENTE: escribir writeup --> |
-| Facts | ✅ | ✅ | <!-- PENDIENTE: escribir writeup --> |
-| Kobold | ✅ | ✅ | <!-- PENDIENTE: escribir writeup --> |
-| Silentium | ✅ | ✅ | <!-- PENDIENTE: escribir writeup --> |
-| CCTV | ✅ | ✅ | <!-- PENDIENTE: escribir writeup --> |
-| GoodGames | ✅ | ✅ | <!-- PENDIENTE: escribir writeup --> |
-| Sau | ✅ | ✅ | <!-- PENDIENTE: escribir writeup --> |
 
 ---
 
