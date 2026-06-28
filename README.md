@@ -120,10 +120,10 @@
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-225553.png" height="420" alt="HTB Profile" /> | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" height="420" alt="HTB Season 11" /> |
-| **Profile**<br/>`Level 48` · `Professional` · `115/1239 XP` | **Season 11 — Competitive**<br/>`Ruby Tier` · `Rank #638` · `350 pts` · `12/26 Flags` |
+| |
+|:---:|
+| <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" height="420" alt="HTB Season 11" /> |
+| **Season 11 — Competitive**<br/>`Ruby Tier` · `Rank #638` · `350 pts` · `12/26 Flags` |
 
 </div>
 
