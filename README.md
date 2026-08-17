@@ -100,7 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-48-00FF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Level-53-00FF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Rank-Professional-DAA520?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Active-ff6666?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
@@ -112,7 +112,7 @@
 | |
 |:---:|
 | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231538.png" width="400" alt="HTB Profile" /> |
-| **Profile**<br/>`Level 48` · `Professional` · `VIP 🜲` · `Team #DO` |
+| **Profile**<br/>`Level 53` · `Professional` · `VIP 🜲` · `Team #DO` |
 
 </div>
 
@@ -123,7 +123,7 @@
 | |
 |:---:|
 | <img src="https://raw.githubusercontent.com/Jeanback1/Jeanback1/main/assets/htb/audit-20260623-231326.png" height="420" alt="HTB Season 11" /> |
-| **Season 11 — Competitive**<br/>`Ruby Tier` · `Rank #638` · `350 pts` · `12/26 Flags` |
+| **Season 11 — Competitive**<br/>`Holo Tier` · `Rank #804` · `720 pts` · `24/26 Flags` |
 
 </div>
 
